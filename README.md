@@ -22,14 +22,11 @@ sudo yum install nvim -y
 ```bash
 .config/nvim/init.vim
 ```
-
 将一下添加到配置文件</br>
 
 ```bash
 imap jk <ESC>
 ```
-</br>
-
 将`ESC`替换为`jk`连续按键，因为常用出入中很少用到`jk`连续
 </br>
 
@@ -38,3 +35,4 @@ nmap <space> :
 ```
 
 将`space`按键替换为`：`
+***
