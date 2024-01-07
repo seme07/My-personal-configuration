@@ -1,5 +1,5 @@
 # My-personal-configuration
-#### 安装nvim(neovim)
+## 安装nvim(neovim)
 ubuntu  
 </br>
 
@@ -13,8 +13,8 @@ centos
 ```bash
 sudo yum install nvim -y
 ```
-
-#### nvim键位更改
+***
+## nvim键位更改
 
 先要创建配置文件
 </br>
