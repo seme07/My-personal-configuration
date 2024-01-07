@@ -1,7 +1,9 @@
 # My-personal-configuration
-## nvim
-######  nvim config
-.config/nvim/init.vim
+#### 安装nvim
+ubuntu  </br>
 
-imap jk <ESC>
-nmap <space> :
+`sudo spt install nvim -y`
+
+centos </br>
+
+`sudo yum install nvim -y`
