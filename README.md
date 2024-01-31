@@ -2,14 +2,11 @@
 ## 安装nvim(neovim)
 ubuntu  
 </br>
-
 ```bash
 sudo spt install nvim -y
 ```
-
 centos 
 </br>
-
 ```bash
 sudo yum install nvim -y
 ```
